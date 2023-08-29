@@ -23,7 +23,7 @@ A TypeScript Node.js API server for managing users. This API provides endpoints 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/nodejs-api-server.git
+   git clone https://github.com/DallingtonAsin/nodejs-api-server.git
    cd nodejs-api-server
 
 2. Install project dependencies:
