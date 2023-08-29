@@ -1,10 +1,10 @@
-# Node.js API Server - User Management
+# TypeScript Node.js API Server - User Management
 
-A Node.js API server for managing users. This API provides endpoints for creating, updating, deleting, and fetching user data.
+A TypeScript Node.js API server for managing users. This API provides endpoints for creating, updating, deleting, and fetching user data.
 
 ## Table of Contents
 
-- [Node.js API Server - User Management](#nodejs-api-server---user-management)
+- [TypeScript Node.js API Server - User Management](#typescript-nodejs-api-server---user-management)
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
@@ -16,6 +16,7 @@ A Node.js API server for managing users. This API provides endpoints for creatin
 
 - Node.js (v14 or higher)
 - npm or yarn
+- TypeScript
 - MySQL or another compatible relational database
 
 ### Installation
