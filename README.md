@@ -25,3 +25,18 @@ A TypeScript Node.js API server for managing users. This API provides endpoints 
    ```sh
    git clone https://github.com/your-username/nodejs-api-server.git
    cd nodejs-api-server
+
+2. Install project dependencies:
+   ```sh
+   npm i body-parser dotenv express joi jsonwebtoken morgan mysql2 sequelize bcrypt
+   npm i --save-dev typescript@5.1.6 @types/node @types/express
+
+3. Create .env file and update environment variables accordingly:
+   ```sh
+   cp .env.example .env
+   -edit values according to your configurations
+
+4. Start the application
+   ```sh
+   npm run start
+   
