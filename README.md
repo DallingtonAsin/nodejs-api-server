@@ -34,7 +34,7 @@ A TypeScript Node.js API server for managing users. This API provides endpoints 
 3. Create .env file and update environment variables accordingly:
    ```sh
    cp .env.example .env
-   -edit values according to your configurations
+   - edit values according to your configurations
 
 4. Start the application
    ```sh
