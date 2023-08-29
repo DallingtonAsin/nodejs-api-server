@@ -40,8 +40,6 @@ A TypeScript Node.js API server for managing users. This API provides endpoints 
    ```sh
    npm run start
 
-
-
 ## Usage
 
 Once the server is running, you can interact with the API endpoints using tools like Postman or Thunderclient. Here's a quick guide on how to use the endpoints:
