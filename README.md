@@ -29,8 +29,7 @@ A TypeScript Node.js API server for managing users. This API provides endpoints 
 
 2. Install project dependencies:
    ```sh
-   npm i body-parser dotenv express joi jsonwebtoken morgan mysql2 sequelize bcrypt
-   npm i --save-dev typescript@5.1.6 @types/node @types/express
+   npm i 
 
 3. Create .env file and update environment variables accordingly:
    ```sh
